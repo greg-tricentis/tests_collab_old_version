@@ -16,3 +16,4 @@ logger.debug("ComputedValue="+computedValue);
 
 // Inject the computed value in a runtime variable
 context.variableManager.setValue("computedVar",computedValue);
+c
